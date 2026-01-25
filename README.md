@@ -1,6 +1,6 @@
 # Olá, eu sou o Falcone! 👋 
 
-### 🎓 Estudante de Engenharia de Software | Desenvolvedor Full Stack em formação
+### 🎓 Estudante de Engenharia de Software | Desenvolvedor em formação
 
 Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia e por criar soluções que facilitem a vida das pessoas. Atualmente estou focado em aprimorar minhas habilidades na Rocketseat!
 ---
