@@ -1,25 +1,65 @@
-# Olá, eu sou o Falcone! 👋 
+# 👋 Olá, eu sou o Falcone!
 
-### 🎓 Estudante de Engenharia de Software | Desenvolvedor em formação
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;Java+%7C+SQL+%7C+Web+Development;Always+building+and+learning" />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Estudante de **Engenharia de Software**
+💻 Desenvolvedor focado em **Backend**
+🚀 Interessado em construir **aplicações escaláveis e eficientes**
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens & Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
 
-### 🌐 Frontend & Design
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,html,css,git,postgres,mysql,github,idea,vscode" />
 
-### ⚙️ Versionamento & Outros
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</p>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📊 Estatísticas do GitHub
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoalsfalcone)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falcone0407@gmail.com)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=76Falcone&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=76Falcone&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Streak de contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=76Falcone&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nicolasfalcone">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:falcone0407@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ Sempre construindo projetos e evoluindo como desenvolvedor.
