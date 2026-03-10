@@ -24,28 +24,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=76Falcone&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=76Falcone&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Streak de contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=76Falcone&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📫 Conecte-se comigo
 
 <p align="center">
