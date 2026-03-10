@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,git,postgres,mysql,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,git,mysql,github,idea,vscode" />
 
 </p>
 
