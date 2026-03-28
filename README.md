@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Engenharia de Software**
-💻 Desenvolvedor focado em **Backend**
-🚀 Interessado em construir **aplicações escaláveis e eficientes**
+<p algin= center>🎓 Estudante de **Engenharia de Software**</p>
+<p algin= center>💻 Desenvolvedor focado em **Backend**</p>
+<p algin= center>🚀 Interessado em construir **aplicações escaláveis e eficientes**</p>
 
 ---
 
