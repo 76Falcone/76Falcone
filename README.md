@@ -34,5 +34,3 @@
 </p>
 
 ---
-
-⭐ Sempre construindo projetos e evoluindo como desenvolvedor.
